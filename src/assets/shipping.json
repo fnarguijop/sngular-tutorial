@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Inmediaro",
+    "price": 25.99
+  },
+  {
+    "type": "2-Dias",
+    "price": 9.99
+  },
+  {
+    "type": "Lento",
+    "price": 2.99
+  }
+]
